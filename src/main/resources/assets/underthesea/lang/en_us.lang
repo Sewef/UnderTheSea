@@ -1,3 +1,9 @@
 item.scute.name=Scute
 item.nautilus_shell.name=Nautilus Shell
 item.heart_of_the_sea.name=Heart of the Sea
+
+item.dried_kelp.name=Dried Kelp
+
+item.turtle_helmet.name=Turtle Shell
+
+potion.turtle_master=Potion of the Turtle Master 
