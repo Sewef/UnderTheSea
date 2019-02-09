@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "underthesea",
+  "name": "UnderTheSea",
+  "description": "1.13 port of water-related features.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Sewef"],
+  "credits": "Mojang for assets and concept.",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
